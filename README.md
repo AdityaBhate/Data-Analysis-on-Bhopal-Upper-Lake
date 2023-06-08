@@ -10,6 +10,15 @@ This project focuses on collecting satellite data of Bhopal's Upper Lake and per
 
 - The EDA phase utilized popular Python libraries such as Pandas, NumPy, and Matplotlib. Various statistical analyses and visualizations were performed to gain insights into the lake's properties and identify patterns or trends within the dataset.
 
+## Repository Structure
+
+The repository is organized as follows:
+
+- `data/`: This directory contains the collected satellite data and any additional datasets used for analysis.
+- `data collection/`: This directory contains the Python script used for data collection.
+- `UpperLake.ipynb`: Notebook containing the EDA
+- `README.md`: This file provides an overview of the project and its components.
+
 ## Omdena Club Project
 
 This project was conducted as part of the Omdena Club, a community-driven platform that collaborates on real-world challenges using AI and data science. The Omdena Club provided a collaborative environment for members to contribute their skills and knowledge to solve meaningful problems.
